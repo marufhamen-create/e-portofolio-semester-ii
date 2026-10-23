@@ -1,0 +1,60 @@
+E-PORTOFOLIO PPG PRAJABATAN SEMESTER II — MARUF HAMEN
+Versi navigasi folder artefak & analisis (Oktober 2026)
+
+MEMBUKA WEBSITE
+1. Ekstrak seluruh berkas ZIP ke satu folder di laptop.
+2. Buka index.html dengan browser (Chrome/Edge/Firefox).
+3. Untuk publikasi online, unggah SEMUA berkas beserta folder assets/ dan dokumen/ ke penyedia hosting statis, misalnya GitHub Pages. Jangan hanya mengunggah index.html.
+
+CARA MENGGUNAKAN MENU ARTEFAK DAN ANALISIS
+- Klik menu ARTEFAK: muncul empat folder Siklus I, II, III, IV.
+- Klik satu folder siklus: muncul daftar tujuh jenis bukti pembelajaran.
+- Pilih salah satu jenis: tampil dokumen, media, video, atau bukti penilaian yang terkait.
+- Klik tautan “Baca analisis artefak ini” untuk langsung menuju analisisnya.
+- Klik menu ANALISIS: muncul empat folder Siklus I, II, III, IV.
+- Klik folder siklus lalu pilih jenis analisis untuk membaca kajian akademik, refleksi, dan tindak lanjut.
+- Ada tombol “Semua folder” untuk kembali serta tombol “Siklus I–IV” untuk berpindah siklus.
+- Fitur pencarian dan filter lama telah dihapus. Halaman catatan kelengkapan administratif tidak lagi ditampilkan.
+
+BAGIAN WEBSITE
+#beranda: halaman depan
+#profil: identitas mahasiswa
+#ppl: perjalanan praktik dan ringkasan dokumentasi
+#uts: UTS, Siklus I
+#uas: UAS, Siklus II–IV
+#siklus-1 sampai #siklus-4: profil, video, foto, hasil belajar, refleksi per siklus
+#artefak: empat folder artefak
+#artefak-1 sampai #artefak-4: isi folder artefak per siklus
+#analisis: empat folder analisis
+#analisis-1 sampai #analisis-4: isi folder analisis per siklus
+#refleksi: refleksi akhir
+#lampiran: dokumen PDF dan referensi
+
+KONTEN YANG TETAP ADA
+- Tiga logo: Tut Wuri Handayani, Universitas Pattimura, dan PPG UNPATTI.
+- Siklus I: dokumentasi foto sengaja dibiarkan kosong.
+- Siklus II: 8 foto pilihan ditampilkan dari 18 foto di Google Drive.
+- Siklus III: 9 foto pilihan ditampilkan dari 26 foto di Google Drive.
+- Siklus IV: 8 foto pilihan ditampilkan dari 21 foto di Google Drive.
+- Semua tautan folder Google Drive, video, 19 PDF, serta isi analisis reflektif dipertahankan.
+
+CATATAN UNTUK PEMILIK — TIDAK TAMPIL DI WEBSITE
+Sebelum portofolio diterbitkan untuk publik, periksa kembali keakuratan dokumen, persetujuan publikasi foto murid, dan apakah PDF penilaian mencantumkan identitas murid yang perlu disamarkan. Izin berbagi Google Drive perlu mengizinkan dosen/guru pamong mengakses video.
+
+PERUBAHAN FILE
+app.js : penataan navigasi folder dan penghapusan fitur pencarian serta catatan administratif.
+semester.css : desain folder dan isi folder yang responsif.
+index.html, data.js, style.css, assets/, dokumen/, foto-profil.png tetap seperti versi sebelumnya.
+
+PENGUJIAN
+Halaman utama folder, isi folder, rincian artefak, dan rincian analisis diuji dalam pratinjau browser berbasis skrip. Navigasi melalui klik, tata letak desktop dan HP, serta ketiadaan pesan kesalahan JavaScript diperiksa. PDF dan video Google Drive tetap bergantung pada browser, jaringan, dan izin berbagi.
+
+
+PEMBARUAN DOKUMENTASI KEGIATAN NONMENGAJAR (OKTOBER 2026)
+- Menu "Nonmengajar" telah ditambahkan ke navigasi utama.
+- Bagian kegiatan nonmengajar HANYA memuat 5 judul kategori dan galeri foto (tanpa narasi/analisis/refleksi), sesuai permintaan.
+- Dokumentasi: Hari Belajar Guru – Kelas Kaya Literasi (10), Hari Belajar Guru – Strategi Memahami Bacaan (12), Memperingati HUT RI (9), Pramuka (8), Rapat Guru dan Orang Tua (2). Total 41 foto.
+- Semua foto diambil dari folder Google Drive yang dikirim dan disalin sebagai berkas gambar WEBP di folder assets/nonmengajar/; dapat ditampilkan tanpa membuka tautan Drive.
+- Klik gambar untuk memperbesar. Menu Nonmengajar juga tersedia lewat halaman PPL Mandiri.
+- Berkas baru: nonmengajar-data.js dan assets/nonmengajar/. Berkas index.html, app.js, semester.css diperbarui; bahan lain tetap.
+- Pastikan mendapat izin publikasi foto guru, murid, dan orang tua sebelum memublikasikan website secara umum.
